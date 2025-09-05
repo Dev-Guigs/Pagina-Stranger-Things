@@ -55,4 +55,4 @@ O objetivo é praticar conceitos de **estruturação semântica**, **estilizaç�
 ## 📄 Licença
 
 Este projeto é apenas para fins de estudo e prática, sem fins comerciais.  
-Criado com ❤️ por [Seu Nome].
+Criado por Guilherme Silva.
