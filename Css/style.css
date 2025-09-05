@@ -1,0 +1,113 @@
+html{
+    font-family: Helvetica;
+    background-color: #3b0000;
+    font-size: 20px;
+    color: #ffff;
+    text-align: center;
+
+}
+.conteiner{
+    max-width: 1100px;
+    background-color: #000000;
+    position: relative;
+    margin: 70px auto;  
+    padding: 40px 80px;     
+}
+
+.bold{
+    font-weight: bold;
+}
+
+/* Cabeçalho */
+
+.header{
+    text-align: center;
+
+}
+
+.titulo{
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.subtitulo{
+    font-size: 25px;
+    font-style: italic;
+}
+
+/* imagem destaque */
+
+.imagemtopo{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #9d00008a;
+    font-size: 10px;
+}
+
+
+.imagemtopo img{
+    width: 700px;
+    height: 400px;
+}
+
+/* biografia */
+
+.biografia{
+    padding: 40px 0;
+    margin: 35px 0;
+    border-top: 1px solid #9d00008a;
+    border-bottom: 1px solid #9d00008a;
+    text-align: justify;
+   
+
+}
+
+.citacao-container{
+    background-color: #570000;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.citacao-container blockquote{
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.citacao-container p{
+    font-style: italic;
+}
+
+/* curiosidades */
+
+.curiosidades-container{
+    padding: 40px 0;
+    margin: 35px 0;
+    border-top: 1px solid #9d00008a;
+    border-bottom: 1px solid #9d00008a;
+    text-align: justify;
+}
+
+.curiosidades-container li{
+    height: 50px;
+}
+
+/* imagem 2 */
+
+.img-bold{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #9d00008a;
+    font-size: 10px;
+}
+
+.img-bold img{
+    width: 1100px;
+    height: 600px;
+    border-radius: 50px;
+
+}
